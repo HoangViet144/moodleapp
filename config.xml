@@ -190,6 +190,6 @@
     <config-file parent="FIREBASE_ANALYTICS_COLLECTION_DEACTIVATED" target="*-Info.plist">
         <string>YES</string>
     </config-file>
-    <engine name="android" spec="8.0.0" />
+    <engine name="android" spec="5.1.1" />
     <engine name="ios" spec="5.0.1" />
 </widget>
