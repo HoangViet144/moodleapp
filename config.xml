@@ -38,6 +38,7 @@
     <preference name="SplashShowOnlyFirstTime" value="false" />
     <preference name="LoadUrlTimeoutValue" value="60000" />
     <preference name="CustomURLSchemePluginClearsAndroidIntent" value="true" />
+	<preference name="phonegap-version" value="cli-9.0.0" />
     <feature name="StatusBar">
         <param name="ios-package" onload="true" value="CDVStatusBar" />
     </feature>
